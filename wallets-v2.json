@@ -349,6 +349,6 @@
           "url": "https://dapp.gateio.services/tonbridge_api/bridge/v1"
        }
     ],
-    "platforms": ["ios", "android", "chrome", "windows", "macos"]
+    "platforms": ["ios", "android", "windows", "macos", "linux"]
     }
 ]
